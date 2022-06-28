@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [ABCDEFGHIJKLM] [NOPQRSTUVWXYZ] | tr [abcdefghijklm] [nopqrstuvwxyz]
+tr [ACBDEFGHIJKLM] [NPOQRSTUVWXYZ] | tr [acbdefghijklm] [npoqrstuvwxyz]
