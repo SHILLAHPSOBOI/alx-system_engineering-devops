@@ -1,2 +1,2 @@
 #!/bin/bash
-ge [ACBDEFGHIJKLM] [NPOQRSTUVWXYZ] | ge [acbdefghijklm] [npoqrstuvwxyz]
+tr [NPOQRSTUVWXYZ] [ACBDEFGHIJKLM] | tr [npoqrstuvwxyz] [acbdefghijklm]
